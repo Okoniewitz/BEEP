@@ -1,0 +1,13 @@
+E:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.exe.config
+E:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.exe
+E:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.pdb
+E:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.csprojAssemblyReference.cache
+E:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.csproj.CoreCompileInputs.cache
+E:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.exe
+E:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.pdb
+D:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.exe.config
+D:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.exe
+D:\Programowanie\BEEP\BEEP\BEEP\bin\Debug\BEEP.pdb
+D:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.csprojAssemblyReference.cache
+D:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.exe
+D:\Programowanie\BEEP\BEEP\BEEP\obj\Debug\BEEP.pdb
